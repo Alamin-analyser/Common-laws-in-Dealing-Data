@@ -37,17 +37,17 @@ A student submits a research paper for a class, copying large sections of text d
 
 **Two consequences of copyright infringement and software piracy**
 
-**Legal Penalties:** Individuals or businesses found guilty of copyright infringement or software piracy may face significant legal consequences, including fines and lawsuits. In some cases, copyright holders can seek damages through civil lawsuits, and criminal cases could result in imprisonment. For example, software piracy could lead to hefty fines and jail time, depending on the scale of the infringement.
+* **Legal Penalties:** Individuals or businesses found guilty of copyright infringement or software piracy may face significant legal consequences, including fines and lawsuits. In some cases, copyright holders can seek damages through civil lawsuits, and criminal cases could result in imprisonment. For example, software piracy could lead to hefty fines and jail time, depending on the scale of the infringement.
 
-**Financial Losses and Damaged Reputation:** Copyright infringement and software piracy can result in financial losses for creators or companies due to lost sales or royalties. Additionally, businesses or individuals caught engaging in piracy may suffer from a damaged reputation, which can undermine consumer trust, harm brand image, and lead to loss of future opportunities or partnerships. This can be especially damaging in industries reliant on intellectual property, like media, technology, and entertainment.
+* **Financial Losses and Damaged Reputation:** Copyright infringement and software piracy can result in financial losses for creators or companies due to lost sales or royalties. Additionally, businesses or individuals caught engaging in piracy may suffer from a damaged reputation, which can undermine consumer trust, harm brand image, and lead to loss of future opportunities or partnerships. This can be especially damaging in industries reliant on intellectual property, like media, technology, and entertainment.
 
 **Three possible consequences for individuals when using pirated software**
 
-**Legal Consequences:** Using pirated software is illegal and can result in fines or even criminal charges. Individuals caught using or distributing pirated software can be held liable for copyright infringement, potentially facing costly legal action.
+* **Legal Consequences:** Using pirated software is illegal and can result in fines or even criminal charges. Individuals caught using or distributing pirated software can be held liable for copyright infringement, potentially facing costly legal action.
 
-**Security Risks:** Pirated software often comes with malware or viruses that can compromise the security of a user's device. These malicious programs may steal personal data, corrupt files, or damage the system, leading to potential data breaches or identity theft.
+* **Security Risks:** Pirated software often comes with malware or viruses that can compromise the security of a user's device. These malicious programs may steal personal data, corrupt files, or damage the system, leading to potential data breaches or identity theft.
 
-**Lack of Support and Updates:** Pirated software does not receive official updates or technical support from the software developer. This means that the software may become outdated, vulnerable to security issues, and lack essential features or fixes, ultimately affecting its performance and functionality.
+* **Lack of Support and Updates:** Pirated software does not receive official updates or technical support from the software developer. This means that the software may become outdated, vulnerable to security issues, and lack essential features or fixes, ultimately affecting its performance and functionality.
 
 **Data Source: Just IT, Google, ChatGPT**
 
