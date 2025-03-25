@@ -19,7 +19,6 @@ The Computer Misuse Act (CMA) is a law in the United Kingdom that makes it a cri
 The computer misuse act 1990 is an act where an individual can be criminalised because of computer related offense. Three extra powers that the Police and Justice Act 2006 (Computer Misuse) has added.
 
 **Unlawful Possession of Articles for Use in Computer Misuse Offenses:**
-
 The Act introduced an offense for the possession of articles (such as hacking tools or malware) with the intent to use them for committing computer misuse offenses. This provision enables law enforcement to take action against individuals even before an actual crime is committed, targeting the tools that could facilitate computer crimes.
 
 **Amendment to Sentences for Computer Misuse Offenses:**
